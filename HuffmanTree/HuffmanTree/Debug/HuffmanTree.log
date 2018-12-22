@@ -1,0 +1,5 @@
+﻿  HuffmanTree.cpp
+  HuffmanTreeMain.cpp
+c:\users\wang decai\desktop\文档\数据结构实验\实验六\huffmantree\huffmantree\huffmantreemain.cpp(5): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码...
+  HuffmanTree.vcxproj -> C:\Users\Wang Decai\Desktop\文档\数据结构实验\实验六\HuffmanTree\Debug\HuffmanTree.exe
